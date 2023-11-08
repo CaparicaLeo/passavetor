@@ -1,0 +1,2 @@
+D.6 O valor resultante é igual a 0 
+D.8 Os valores mostrados são o numero em si e a quantidade de divisores dele, funcionando perfeitamente.
